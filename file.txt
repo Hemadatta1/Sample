@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "This is my project"
 "This is changed"
+=======
+"This is my project" 
+"Fixed the bug" 
+>>>>>>> b438bf0 (Fixed issue in file.txt)
